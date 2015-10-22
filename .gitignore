@@ -71,4 +71,8 @@ pip-selfcheck.json
 # Temporary data
 .ipynb_checkpoints/
 
+# PyCharm
+.idea
 # Created by .ignore support plugin (hsz.mobi)
+
+
